@@ -1,7 +1,7 @@
 kcruby-rtanque
 ==============
 
-This is a work in progress for the Kansas City Ruby group's rtanque competition, starting May-ish 2013.
+This is a work in progress for the Kansas City Ruby group's rtanque competition, starting May 26, 2013.
 
  * [About rtanque](#about-rtanque)
  * [Schedule](#schedule)
