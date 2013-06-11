@@ -48,7 +48,7 @@ How to submit
 
 * upload your bot's code to [a private gist](https://gist.github.com)
   * bot filename must end in .rb
-* fill out [this google form](https://docs.google.com/a/databasically.com/forms/d/18Vv0_D3A_Wqe9LB_xvSIE3cPYD7XkdM8suQgqqkXo3Q/viewform) with the following information:
+* fill out [this google form](http://bit.ly/2013-kcruby-rtanque-signup) with the following information:
   * your name
   * gist ID from above
   * twitter handle
